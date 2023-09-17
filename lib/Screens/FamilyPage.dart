@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-
-import '../Models/numbers.dart';
-import '../components/List_Item.dart';
+import 'package:speakfree/Models/numbers.dart';
+import 'package:speakfree/components/List_Item.dart';
 
 class familyPage extends StatelessWidget {
   familyPage({super.key});
