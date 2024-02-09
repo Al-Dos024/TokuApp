@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:speakfree/Models/pharases.dart';
+import 'package:speakfree/components/List_Item.dart';
 
-import '../components/List_Item.dart';
+
 
 class pharasesPage extends StatelessWidget {
   pharasesPage({super.key});

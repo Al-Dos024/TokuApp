@@ -1,9 +1,10 @@
 // ignore_for_file: empty_constructor_bodies, must_be_immutable
 
-import 'package:flutter/material.dart';
-import 'package:speakfree/components/List_Item.dart';
 
-import '../Models/numbers.dart';
+
+import 'package:flutter/material.dart';
+import 'package:speakfree/Models/numbers.dart';
+import 'package:speakfree/components/List_Item.dart';
 
 class NumberScreen extends StatelessWidget {
   NumberScreen({super.key});
